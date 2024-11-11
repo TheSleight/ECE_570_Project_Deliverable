@@ -1,0 +1,30 @@
+Question: What is the meaning of life?
+Response: What is the meaning of life?
+The first question that comes to mind when you think about this, and what does it mean for a person in terms of their relationship with God. The second one I would like people who are not religious or have some kind of spiritual experience on how they feel as well if there's something going through them from being an individualist religion which has been around since before Christianity was founded by Jesus Christ but also other religions were created after those two things came together where we see these different cultures all over history so many times now because most countries today do very much more than just be part country then at least its still based out here can actually come up during time period did start early modern world started ancient civilization developed into nation
+BLEU Score: 0.0306
+ROUGE Scores: {'rouge1': Score(precision=0.041379310344827586, recall=1.0, fmeasure=0.07947019867549668), 'rouge2': Score(precision=0.034722222222222224, recall=1.0, fmeasure=0.06711409395973154), 'rougeL': Score(precision=0.041379310344827586, recall=1.0, fmeasure=0.07947019867549668)}
+
+Question: Explain the process of photosynthesis.
+Response: Explain the process of photosynthesis.
+The first to be published in Nature, a new study has found that plants are able to produce more than one billion light-years per year from their roots and can also use them as energy sources for other uses such solar power generation or wind turbines? The research was conducted by researchers at University College London's Institute on Plant Biology (IOP) with help provided through an international collaboration between scientists including Drs John D'Souza who is director Professor Emeritus Department Research Programme Iop/C&E; Prof David Mowry Director Faculty Development Program In this article we will discuss how plant growth occurs during flowering period when it could have been used not only but even if they were developed into food
+BLEU Score: 0.0270
+ROUGE Scores: {'rouge1': Score(precision=0.03875968992248062, recall=1.0, fmeasure=0.07462686567164178), 'rouge2': Score(precision=0.03125, recall=1.0, fmeasure=0.06060606060606061), 'rougeL': Score(precision=0.03875968992248062, recall=1.0, fmeasure=0.07462686567164178)}
+
+Question: How does gravity work?
+Response: How does gravity work?
+The first thing to know about the gravitational force is that it's a very small amount of energy. The second, and most important part in this equation are how much mass you have at one time (the "mass" being what we call an electron). In other words if there were no electrons then they would be smaller than their current density which means less matter as well but also more space so for example when your solar system was formed by Earth its size increased from 1/2th or 2% per year on average with each planet having around 10 times larger area compared today where our sun has only 3 billion years old earth had 4 million billions planets before all these things happened because now every day life can exist within us
+BLEU Score: 0.0163
+ROUGE Scores: {'rouge1': Score(precision=0.02877697841726619, recall=1.0, fmeasure=0.055944055944055944), 'rouge2': Score(precision=0.021739130434782608, recall=1.0, fmeasure=0.042553191489361694), 'rougeL': Score(precision=0.02877697841726619, recall=1.0, fmeasure=0.055944055944055944)}
+
+Question: What are the benefits of exercise?
+Response: What are the benefits of exercise?
+The main benefit is that you can get a better feel for your body. The other side, it's more about how to do things and what kind of exercises they have in them so if there was an increase or decrease on those two I would say this has been very important as well because when people were doing these type training with their own personal experience which we did not know at first but now all over our life where many different types like physical activity also had some effect from being able be used by others who could use one another then its really great thing actually most often during my time period after having done something before starting out maybe even just started off through work part way into early years back here In fact while
+BLEU Score: 0.0304
+ROUGE Scores: {'rouge1': Score(precision=0.0410958904109589, recall=1.0, fmeasure=0.07894736842105263), 'rouge2': Score(precision=0.034482758620689655, recall=1.0, fmeasure=0.06666666666666667), 'rougeL': Score(precision=0.0410958904109589, recall=1.0, fmeasure=0.07894736842105263)}
+
+Question: Describe the history of the internet.
+Response: Describe the history of the internet.
+The first time I was in a room with people, and they were talking about how to make it better for their children's education? The second is that there are some things you can do on your own as well but what does this mean when we have these other countries like China or Japan where all those different ways which has been so many times now from not having any kind more than one country at most two years ago then also because if its just an example here maybe even after being used by them who did say "I think" (in) my home city had started over before he said his name during last year period since early part-of world came out through new way use European Union government will
+BLEU Score: 0.0319
+ROUGE Scores: {'rouge1': Score(precision=0.04285714285714286, recall=1.0, fmeasure=0.0821917808219178), 'rouge2': Score(precision=0.03597122302158273, recall=1.0, fmeasure=0.06944444444444445), 'rougeL': Score(precision=0.04285714285714286, recall=1.0, fmeasure=0.0821917808219178)}
+

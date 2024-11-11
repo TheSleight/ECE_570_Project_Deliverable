@@ -1,0 +1,25 @@
+Question: What is the meaning of life?
+Response: What is the meaning of life?
+BLEU Score: 1.0000
+ROUGE Scores: {'rouge1': Score(precision=1.0, recall=1.0, fmeasure=1.0), 'rouge2': Score(precision=1.0, recall=1.0, fmeasure=1.0), 'rougeL': Score(precision=1.0, recall=1.0, fmeasure=1.0)}
+
+Question: Explain the process of photosynthesis.
+Response: Explain the process of photosynthesis.
+BLEU Score: 1.0000
+ROUGE Scores: {'rouge1': Score(precision=1.0, recall=1.0, fmeasure=1.0), 'rouge2': Score(precision=1.0, recall=1.0, fmeasure=1.0), 'rougeL': Score(precision=1.0, recall=1.0, fmeasure=1.0)}
+
+Question: How does gravity work?
+Response: How does gravity work?
+BLEU Score: 1.0000
+ROUGE Scores: {'rouge1': Score(precision=1.0, recall=1.0, fmeasure=1.0), 'rouge2': Score(precision=1.0, recall=1.0, fmeasure=1.0), 'rougeL': Score(precision=1.0, recall=1.0, fmeasure=1.0)}
+
+Question: What are the benefits of exercise?
+Response: What are the benefits of exercise?
+BLEU Score: 1.0000
+ROUGE Scores: {'rouge1': Score(precision=1.0, recall=1.0, fmeasure=1.0), 'rouge2': Score(precision=1.0, recall=1.0, fmeasure=1.0), 'rougeL': Score(precision=1.0, recall=1.0, fmeasure=1.0)}
+
+Question: Describe the history of the internet.
+Response: Describe the history of the internet.
+BLEU Score: 1.0000
+ROUGE Scores: {'rouge1': Score(precision=1.0, recall=1.0, fmeasure=1.0), 'rouge2': Score(precision=1.0, recall=1.0, fmeasure=1.0), 'rougeL': Score(precision=1.0, recall=1.0, fmeasure=1.0)}
+
